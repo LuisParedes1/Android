@@ -12,3 +12,7 @@ val edad:Int = 2
 ```
 
 This expressions are equavalent to the compiler
+
+# More info
+
+[Notion](https://mis-notas.notion.site/Variables-in-Kotlin-6d82dcffbda84e5499ff540865bcfb30?pvs=4)
