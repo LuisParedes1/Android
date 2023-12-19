@@ -7,9 +7,9 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 <details>
 <summary>Unidad 1</summary>
 
-- [1.3 - Hello world](./kotlin/hello_word/)
-- [1.4 - Variables y Constantes](./kotlin/variables/)
-- [1.5 - Functions](./kotlin/functions/)
+- [1.1.3 - Hello world](./kotlin/hello_word/)
+- [1.1.4 - Variables y Constantes](./kotlin/variables/)
+- [1.1.5 - Functions](./kotlin/functions/)
 
 </details>
 
