@@ -13,7 +13,7 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 
 </details>
 
-# Docu
+# Kotlin
 
 [Docu oficial](https://kotlinlang.org/docs/home.html)
 
