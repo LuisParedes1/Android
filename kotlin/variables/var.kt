@@ -9,6 +9,7 @@ fun main(){
     // Type inference
     // The compiler can infer variable tipe
 
+
     val edad1 = 2
     val edad2:Int = 2
 
