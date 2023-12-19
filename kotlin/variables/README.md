@@ -1,6 +1,6 @@
 # Basic data types
 
-![dataType](image.png)
+![dataType](./img/image.png)
 
 # Type inference
 
