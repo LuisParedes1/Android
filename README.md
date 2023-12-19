@@ -4,9 +4,12 @@ Siguiendo el curso [aca](https://developer.android.com/courses/android-basics-co
 
 ## Temas
 
-- [1.2 - Hello world](./kotlin/hello_word/)
+<details>
+<summary>Unidad 1</summary>
+- [1.3 - Hello world](./kotlin/hello_word/)
 - [1.4 - Variables y Constantes](./kotlin/variables/)
 -
+</details>
 
 # Docu
 
