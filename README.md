@@ -1,6 +1,6 @@
 # Curso de Android Developmente
 
-Siguiendo el curso [aca](https://developer.android.com/courses/android-basics-compose/course)
+Siguiendo el curso [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 
 ## Temas
 
