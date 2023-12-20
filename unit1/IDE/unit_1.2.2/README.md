@@ -2,6 +2,8 @@
 
 [Unit 1.2.2 - First Android App](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-first-app#0)
 
+Open project with Android Studio and wait for it to index the project. Afterwards compile and execute the program
+
 ## Summary
 
 - To create a new project: open Android Studio, click **New Project > Empty Activity > Next**, enter a name for your project and then configure its settings.
