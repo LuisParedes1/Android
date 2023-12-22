@@ -12,6 +12,7 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 - [1.1.5 - Functions](./unit1/kotlin/functions/)
 - [1.2.2 - First Android App with Compose](./unit1/IDE/unit_1.2.2/)
 - [1.3.3 & 1.3.4 - Birthday Card App with Compose](./unit1/JetpackCompose/)
+- [1.3.4 Exercises](https://github.com/LuisParedes1/Android/tree/master/unit1/Exercises/)
 
 </details>
 
