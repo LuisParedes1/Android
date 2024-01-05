@@ -17,6 +17,13 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 
 </details>
 
+<details>
+<summary>Unidad 2</summary>
+
+- [2.1.1 - Kotlin Fundamentals](./unit2/unit2.1_kotlin_fundamentals/)
+
+</details>
+
 # Kotlin
 
 [Docu oficial](https://kotlinlang.org/docs/home.html)
