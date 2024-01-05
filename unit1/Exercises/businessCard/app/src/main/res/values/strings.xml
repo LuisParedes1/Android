@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">businessCard</string>
+    <string name="full_name">Luis Paredes</string>
+    <string name="title">My Business Card</string>
+    <string name="phone_number">xxx_xxx_xxx</string>
+    <string name="social_media">luisparedes</string>
+    <string name="email">lj@gmail.com</string>
 </resources>
