@@ -20,7 +20,8 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 <details>
 <summary>Unidad 2</summary>
 
-- [2.1.1 - Kotlin Fundamentals](./unit2/unit2.1_kotlin_fundamentals/)
+- [2.1.1 - Kotlin Conditionals](./unit2/unit2.1.1_conditionals/)
+- [2.1.2 - Null](./unit2/unit2.1.2_null/)
 
 </details>
 
