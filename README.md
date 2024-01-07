@@ -21,7 +21,7 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 <summary>Unidad 2</summary>
 
 - [2.1.1 - Kotlin Conditionals](./unit2/unit2.1.1_conditionals/)
-- [2.1.2 - Null](./unit2/unit2.1.2_null/)
+- [2.1.2 - Nullable](./unit2/unit2.1.2_null/)
 
 </details>
 
