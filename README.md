@@ -23,6 +23,8 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 - [2.1.1 - Kotlin Conditionals](./unit2/unit2.1.1_conditionals/)
 - [2.1.2 - Nullable](./unit2/unit2.1.2_null/)
 - [2.1.3 - OOP in Kotlin](./unit2/unit2.1.3_classes/)
+- [2.1.4 - Lambdas](./unit2/unit2.1.4_lambdas/)
+- [2.1.5 - Exercises](./unit2/unit2.1.5_exercises/)
 
 </details>
 
