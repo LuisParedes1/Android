@@ -5,10 +5,10 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 ## Temas
 
 <details>
-<summary>Unidad 1</summary>
+<summary>Unit 1</summary>
 
 - [1.1.3 - Hello world](./unit1/kotlin/hello_word/)
-- [1.1.4 - Variables y Constantes](./unit1/kotlin/variables/)
+- [1.1.4 - Variables y Constants](./unit1/kotlin/variables/)
 - [1.1.5 - Functions](./unit1/kotlin/functions/)
 - [1.2.2 - First Android App with Compose](./unit1/IDE/unit_1.2.2/)
 - [1.3.3 & 1.3.4 - Birthday Card App with Compose](./unit1/JetpackCompose/)
@@ -18,7 +18,7 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 </details>
 
 <details>
-<summary>Unidad 2</summary>
+<summary>Unit 2</summary>
 
 - [2.1.1 - Kotlin Conditionals](./unit2/unit2.1.1_conditionals/)
 - [2.1.2 - Nullable](./unit2/unit2.1.2_null/)
@@ -26,6 +26,14 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 - [2.1.4 - Lambdas](./unit2/unit2.1.4_lambdas/)
 - [2.1.5 - Exercises](./unit2/unit2.1.5_exercises/)
 - [2.2.1 - Dice Roller Dynamic App](./unit2/unit2.2/)
+
+</details>
+
+<details>
+<summary>Unit 3</summary>
+
+- [3.1.1 - ]()
+-
 
 </details>
 
