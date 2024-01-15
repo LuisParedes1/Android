@@ -25,7 +25,8 @@ Siguiendo el curso [Android Basics with Compose](https://developer.android.com/c
 - [2.1.3 - OOP in Kotlin](./unit2/unit2.1.3_classes/)
 - [2.1.4 - Lambdas](./unit2/unit2.1.4_lambdas/)
 - [2.1.5 - Exercises](./unit2/unit2.1.5_exercises/)
-- [2.2.1 - Dice Roller Dynamic App](./unit2/unit2.2/)
+- [2.2.1 - Dice Roller Dynamic App](./unit2/unit2.2.1_dice/)
+- [2.2.3 - Lemonade App](./unit2/unit2.2.2_lemonade/)
 
 </details>
 
