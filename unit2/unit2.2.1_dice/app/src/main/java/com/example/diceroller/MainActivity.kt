@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             DiceRollerTheme {
-                DiceRollerApp()
+                    DiceRollerApp()
                 }
             }
         }
